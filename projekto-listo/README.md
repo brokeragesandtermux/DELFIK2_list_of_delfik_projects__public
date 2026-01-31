@@ -4,7 +4,7 @@ Welcome to the project list for the **Delfik Orakle** projects.
 
 This directory serves as a high-level index of the creative experiments developed by **Anand Manikutty** during 2025.
 
-Our work bridges the gap between generative A.I., enterprise software architecture (grounded in my Oracle roots) and the evolving landscape of artificial intelligence, linguistics, and digital joy.
+Our work bridges the gap between generative A.I., enterprise software architecture (grounded in my Oracle roots) and the evolving landscape of artificial intelligence, linguistics, and digital joy. We have specially designed workflows to make a number of processes much easier and more efficient.
 
 ---
 
