@@ -1,8 +1,8 @@
-# 📂 The Delfik Orakle Project List (2022–2026)
+# 📂 The Delfik Orakle Project List (Jan 2025–Dec2025)
 
 Welcome to the project list for the **Delfik Orakle** projects. 
 
-This directory serves as a high-level index of the creative experiments developed by **Anand Manikutty**.
+This directory serves as a high-level index of the creative experiments developed by **Anand Manikutty** during 2025.
 
 Our work bridges the gap between generative A.I., enterprise software architecture (grounded in my Oracle roots) and the evolving landscape of artificial intelligence, linguistics, and digital joy.
 
