@@ -9,4 +9,5 @@ It is a Ligilo_reen (trans. : "link back") to TL;DR posts on that blog.
 Link to blog: http://delfikorakle.blogspot.com/
 
 Link to TL;DR post: https://delfikorakle.blogspot.com/2026/01/reposting-my-tldr-of-projects-done.html
+
 [+]
