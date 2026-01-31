@@ -33,7 +33,7 @@ This project demonstrates how software architecture can engineer **"optionality"
 ---
 
 ## 🔗 Navigation
-* **Original Blog:** [Delfik Orakle](https://delfik-orakle.blogspot.com/)
+* **Original Blog:** [Delfik Orakle](https://delfikorakle.blogspot.com/)
 * **Project Archive:** [GitHub Repository Index](https://github.com/brokeragesandtermux/DELFIK2_list_of_delfik_projects__public)
 
 ---
