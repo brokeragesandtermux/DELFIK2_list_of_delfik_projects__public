@@ -4,6 +4,8 @@ This GitHub repo is used to store the list of projects completed during 2025 as 
 
 It is a Ligilo_Reen (trans. : "link back") to TL;DR posts on that blog.
 
+So, do keep this GitHub repo around.
+
 [+]
 
 Link to blog: http://delfikorakle.blogspot.com/
