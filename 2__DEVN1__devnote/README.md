@@ -2,7 +2,7 @@
 
 This GitHub repo is used to store the list of projects completed during 2025 as part of the Delfik Orakle blog projects. 
 
-It is a Ligilo_reen (trans. : "link back") to TL;DR posts on that blog.
+It is a Ligilo_Reen (trans. : "link back") to TL;DR posts on that blog.
 
 [+]
 
